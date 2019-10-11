@@ -1,0 +1,6 @@
+<ul>
+  <li><a href="<%= page "index" %>">Home</a></li>
+  <li><a href="<%= base "posts" %>">Posts</a></li>
+  <li><a href="https://github.com/bLopata">Github</a></li>
+  <li><a href="https://linkedin.com/in/ben-lopata">LinkedIn</a></li>
+</ul>
